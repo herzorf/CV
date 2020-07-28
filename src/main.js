@@ -28,7 +28,7 @@ let option =  {
                     type: 'radar',
                     data: [
                         {
-                            value: [70, 80, 90, 80, 75, 80],
+                            value: [65, 75, 80, 70, 70, 75],
                             name: '我的技能'
                         }
                     ]
